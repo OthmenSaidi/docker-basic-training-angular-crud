@@ -1,3 +1,6 @@
+This is my second exercice trying to dockerise my angular-product-crud app
+
+
 # WebCatApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
