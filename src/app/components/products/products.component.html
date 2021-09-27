@@ -1,0 +1,4 @@
+<p>products works!</p>
+<app-products-nav-bar (productEventEmitter)="onActionEvent($event)"></app-products-nav-bar>
+<app-products-list [products$]="products$" (productsEventEmitter)="onActionEvent($event)"></app-products-list>
+<!-- nous avons depuis le parent un input l'envoi des produits et un output les evenements de selection delete edit -->
